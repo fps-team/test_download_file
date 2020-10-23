@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 12.904 12.905">
+  <g id="chat" transform="translate(0)">
+    <g id="Group_3839" data-name="Group 3839">
+      <path id="Path_12709" data-name="Path 12709" d="M11.03,1.891A6.451,6.451,0,0,0,1.5,10.567,2.469,2.469,0,0,1,.465,11.713a.605.605,0,0,0,.175,1.14,3.335,3.335,0,0,0,.51.038,3.852,3.852,0,0,0,2.27-.753A6.45,6.45,0,0,0,11.03,1.891Zm-.521,8.6a5.715,5.715,0,0,1-6.936.889.367.367,0,0,0-.447.057.121.121,0,0,0-.03.022,3.15,3.15,0,0,1-1.945.693h0a3.612,3.612,0,0,0,1.108-1.471.377.377,0,0,0,.019-.237.383.383,0,0,0-.09-.207,5.715,5.715,0,1,1,8.324.254Z" transform="translate(-0.019)" fill="#748a9d"/>
+      <ellipse id="Ellipse_500" data-name="Ellipse 500" cx="0.453" cy="0.453" rx="0.453" ry="0.453" transform="translate(5.996 6)" fill="#748a9d"/>
+      <ellipse id="Ellipse_501" data-name="Ellipse 501" cx="0.453" cy="0.453" rx="0.453" ry="0.453" transform="translate(8.332 6)" fill="#748a9d"/>
+      <ellipse id="Ellipse_502" data-name="Ellipse 502" cx="0.453" cy="0.453" rx="0.453" ry="0.453" transform="translate(3.66 6)" fill="#748a9d"/>
+    </g>
+  </g>
+</svg>
